@@ -1,6 +1,6 @@
 - 👋 Hi, I’m karthik
 - 👀 I’m interested in the world of data analytics
-- 🌱 I’m currently learning various tools that would help find insights
+- 🌱 I’m currently learning various tools that would helpme able to find insights
 - 💞️ I’m looking to collaborate on any projects with respect to data
 
 
